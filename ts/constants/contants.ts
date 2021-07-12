@@ -1,0 +1,9 @@
+export const ROWS = 6;
+export const COLS = 6;
+export const P1 = 1;
+export const P2 = 2;
+export const P1_COLOR = 'red';
+export const P2_COLOR = 'yellow';
+export const P1_SUCCESS_MESSAGE = `${P1_COLOR.charAt(0).toUpperCase() + P1_COLOR.slice(1)} wins!`;
+export const P2_SUCCESS_MESSAGE = `${P2_COLOR.charAt(0).toUpperCase() + P2_COLOR.slice(1)} wins!`;
+export const DROW_MESSAGE = 'Draw!';

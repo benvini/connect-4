@@ -1,0 +1,6 @@
+{
+    "homeScreen" : {
+      "connect4": "Connect 4",
+      "newGame": "NEW GAME"
+  }
+}
